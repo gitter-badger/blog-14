@@ -3,4 +3,19 @@
     "type": "project",
     "description": "Profideo blog",
     "license": "MIT",
+    
+    "authors": [
+        {
+            "name": "Nicolas MOULIN",
+            "email": "nmoulin@profideo.com",
+            "role": "Developer"
+        },
+
+    ],
+    "autoload": {
+    },
+    "require": {
+    },
+    "require-dev": {
+    }
 }
