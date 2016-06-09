@@ -3,6 +3,7 @@ title: Contrôlez votre accès concurrentiel avec Doctrine 2
 date: 10:30 06/01/2016
 author:
     name: Florent SEVESTRE
+    email: fsevestre@profideo.com
     twitter: @_fsevestre
     github: @fsevestre
 highlight:
