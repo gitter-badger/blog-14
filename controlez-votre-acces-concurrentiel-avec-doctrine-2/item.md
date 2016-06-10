@@ -5,7 +5,7 @@ author:
     name: Florent SEVESTRE
     email: fsevestre@profideo.com
     twitter: @_fsevestre
-    github: @fsevestre
+    github: fsevestre
 highlight:
     theme: darkula
 header_image: false
